@@ -43,43 +43,15 @@ Full-stack veterinary clinic management system.
 - Staff scheduling and booking conflict handling
 RoleEmailPasswordNotes
 
-Admin
+### PawCareHub Demo Accounts
 
-admin@pawcarehub.demo
-
-PawCareDemo123!
-
-Full admin access
-
-Doctor
-
-doctor@pawcarehub.demo
-
-PawCareDemo123!
-
-Doctor booking/outcome workflow
-
-Front desk
-
-frontdesk@pawcarehub.demo
-
-PawCareDemo123!
-
-Booking and clinic operations workflow
-
-Client
-
-client@pawcarehub.demo
-
-PawCareDemo123!
-
-Customer pets, profile, and bookings
-
-Inactive client
-
-inactive.client@pawcarehub.demo
-
-PawCareDemo123!
+| Role | Email | Password | Notes |
+|---|---|---|---|
+| Admin | `admin@pawcarehub.demo` | `PawCareDemo123!` | Full admin access |
+| Doctor | `doctor@pawcarehub.demo` | `PawCareDemo123!` | Doctor booking/outcome workflow |
+| Front desk | `frontdesk@pawcarehub.demo` | `PawCareDemo123!` | Booking and clinic operations workflow |
+| Client | `client@pawcarehub.demo` | `PawCareDemo123!` | Customer pets, profile, and bookings |
+| Inactive client | `inactive.client@pawcarehub.demo` | `PawCareDemo123!` | Intentionally deactivated; login should fail |
 
 - 
 **Live Demo:** https://pawcarehub.foxrove.com/
