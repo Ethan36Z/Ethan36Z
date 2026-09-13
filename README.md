@@ -4,6 +4,17 @@ I'm a full-stack developer based in California, building practical web applicati
 
 My current focus is **Corvus**, a persistent personal AI designed to run on consumer hardware with long-term memory, hybrid retrieval, a model-portable personality layer, multimodal vision, and self-hosted deployment.
 
+🌐 **Portfolio:** https://foxrove.com
+
+## Demo Access
+
+Some deployed portfolio projects are protected by a recruiter-facing demo gateway.
+
+**Username:** `demo`  
+**Password:** `0321`
+
+> Demo environments are isolated from private production data.
+
 ## Featured Projects
 
 ### 🐦‍⬛ Corvus
@@ -30,6 +41,49 @@ Full-stack veterinary clinic management system.
 - JWT / Spring Security
 - Role-based access control
 - Staff scheduling and booking conflict handling
+RoleEmailPasswordNotes
+
+Admin
+
+admin@pawcarehub.demo
+
+PawCareDemo123!
+
+Full admin access
+
+Doctor
+
+doctor@pawcarehub.demo
+
+PawCareDemo123!
+
+Doctor booking/outcome workflow
+
+Front desk
+
+frontdesk@pawcarehub.demo
+
+PawCareDemo123!
+
+Booking and clinic operations workflow
+
+Client
+
+client@pawcarehub.demo
+
+PawCareDemo123!
+
+Customer pets, profile, and bookings
+
+Inactive client
+
+inactive.client@pawcarehub.demo
+
+PawCareDemo123!
+
+Intentionally deactivated; login should fail
+- 
+**Live Demo:** https://pawcarehub.foxrove.com/
 
 ---
 
@@ -49,6 +103,8 @@ Full-stack job application tracking system.
 **Backend:** Spring Boot, Node.js, Express, FastAPI  
 **Data:** MySQL, SQLite, Prisma, LanceDB  
 **AI / Systems:** llama.cpp, local LLMs, retrieval systems, Docker, Nginx, Linux
+
+**Live Demo:** https://jobtrack.foxrove.com/
 
 ## Links
 
