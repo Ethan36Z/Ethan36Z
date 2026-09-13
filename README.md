@@ -17,7 +17,8 @@ Some deployed portfolio projects are protected by a recruiter-facing demo gatewa
 
 ## Featured Projects
 
-### 🐦‍⬛ Corvus
+### [🐦‍⬛ Corvus](https://github.com/Ethan36Z/Corvus)
+
 Persistent personal AI on consumer hardware.
 
 - Local Qwen3.5-9B inference with llama.cpp
@@ -32,7 +33,8 @@ Persistent personal AI on consumer hardware.
 
 ---
 
-### 🐾 PawCareHub
+### [🐾 PawCareHub](https://github.com/Ethan36Z/pawcare-hub)
+
 Full-stack veterinary clinic management system.
 
 - Vue 3
@@ -41,9 +43,10 @@ Full-stack veterinary clinic management system.
 - JWT / Spring Security
 - Role-based access control
 - Staff scheduling and booking conflict handling
-RoleEmailPasswordNotes
 
-### PawCareHub Demo Accounts
+**Live Demo:** https://pawcarehub.foxrove.com/
+
+#### Demo Accounts
 
 | Role | Email | Password | Notes |
 |---|---|---|---|
@@ -53,12 +56,10 @@ RoleEmailPasswordNotes
 | Client | `client@pawcarehub.demo` | `PawCareDemo123!` | Customer pets, profile, and bookings |
 | Inactive client | `inactive.client@pawcarehub.demo` | `PawCareDemo123!` | Intentionally deactivated; login should fail |
 
-- 
-**Live Demo:** https://pawcarehub.foxrove.com/
-
 ---
 
-### 📋 JobTrack
+### [📋 JobTrack](https://github.com/Ethan36Z/jobtrack)
+
 Full-stack job application tracking system.
 
 - React
@@ -68,6 +69,10 @@ Full-stack job application tracking system.
 - MySQL
 - Zod / React Hook Form / Zustand
 
+**Live Demo:** https://jobtrack.foxrove.com/
+
+---
+
 ## Tech
 
 **Frontend:** React, Vue 3, TypeScript, JavaScript, Vite  
@@ -75,9 +80,7 @@ Full-stack job application tracking system.
 **Data:** MySQL, SQLite, Prisma, LanceDB  
 **AI / Systems:** llama.cpp, local LLMs, retrieval systems, Docker, Nginx, Linux
 
-**Live Demo:** https://jobtrack.foxrove.com/
-
 ## Links
 
-🌐 Portfolio: https://foxrove.com  
-🐦‍⬛ Corvus Demo: https://demo-corvus.foxluma.com/
+🌐 **Portfolio:** https://foxrove.com  
+🐦‍⬛ **Corvus Demo:** https://demo-corvus.foxluma.com/
