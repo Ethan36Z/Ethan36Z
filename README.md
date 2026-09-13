@@ -81,7 +81,6 @@ inactive.client@pawcarehub.demo
 
 PawCareDemo123!
 
-Intentionally deactivated; login should fail
 - 
 **Live Demo:** https://pawcarehub.foxrove.com/
 
